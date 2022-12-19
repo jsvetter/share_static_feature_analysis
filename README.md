@@ -1,6 +1,6 @@
-# Steps necessary before running.
+# Steps necessary to run:
 
-## Change these values in the numbers file.
+### Change these values in the numbers file.
 - OP Indication time Pat 5962483 and 5398110: remove date, only time should be there
 - Reason Pat 4333506: "3/2a" -> "2a"
 - OP Indication date Pat 4743593: 20:14 -> 4/5/2020
