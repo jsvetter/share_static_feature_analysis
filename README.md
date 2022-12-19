@@ -7,8 +7,8 @@
 - Nicotine to Hypertonia Pat 5440529; move value from Nicotine to Hypertonia
 
 Not absolutely necessary:
-- Removed empty rows
-- All rows in one line
+- Remove empty rows
+- Remove newline characters
 
 **Then export .numbers file as .csv!**
 
