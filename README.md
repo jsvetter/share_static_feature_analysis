@@ -6,7 +6,7 @@
 - OP Indication date Pat 4743593: 20:14 -> 4/5/2020
 - Nicotine to Hypertonia Pat 5440529; move value from Nicotine to Hypertonia
 
-Not absolutelly necessary:
+Not absolutely necessary:
 - Removed empty rows.
 - All rows in one line.
 
