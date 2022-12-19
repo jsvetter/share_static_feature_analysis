@@ -1,3 +1,20 @@
+# Steps necessary before running.
+
+## Change these values in the numbers file.
+- OP Indication time Pat 5962483 and 5398110: remove date, only time should be there
+- Reason Pat 4333506: "3/2a" -> "2a"
+- OP Indication date Pat 4743593: 20:14 -> 4/5/2020
+- Nicotine to Hypertonia Pat 5440529; move value from Nicotine to Hypertonia
+
+Not absolutelly necessary:
+- Removed empty rows.
+- All rows in one line.
+
+**Then export .numbers file as .csv!**
+
+Change ```folder_path``` and ```csv_name``` to your values.
+Run the script.
+
 # Example output from single run:
 
 ```
